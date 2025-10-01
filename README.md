@@ -77,7 +77,14 @@ It focuses on applying **Support Vector Machine (SVM)** and **Convolutional Neur
   - Serve ML models (CNN, SVM).  
   - REST API for communication with frontend.  
 
-![App UI](docs/ui.png) <!-- bạn có thể chèn hình minh họa -->
+## 📱 Application UI
+
+<p align="center">
+  <img src="docs/ui/99b47f4c0db887e6dea91.jpg" width="250"/>
+  <img src="docs/ui/251b39e74b13c14d98022.jpg" width="250"/>
+  <img src="docs/ui/abd4d72aa5de2f8076cf3.jpg" width="250"/>
+</p>
+
 
 ---
 
