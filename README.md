@@ -80,9 +80,9 @@ It focuses on applying **Support Vector Machine (SVM)** and **Convolutional Neur
 ## 📱 Application UI
 
 <p align="center">
-  <img src="docs/ui/99b47f4c0db887e6dea91.jpg" width="250"/>
-  <img src="docs/ui/251b39e74b13c14d98022.jpg" width="250"/>
-  <img src="docs/ui/abd4d72aa5de2f8076cf3.jpg" width="250"/>
+  <img src="docs/UI/99b47f4c0db887e6dea91.jpg" width="250"/>
+  <img src="docs/UI/251b39e74b13c14d98022.jpg" width="250"/>
+  <img src="docs/UI/abd4d72aa5de2f8076cf3.jpg" width="250"/>
 </p>
 
 
